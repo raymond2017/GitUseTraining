@@ -12,7 +12,7 @@ class ViewController: NSViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("Starting app...")
         // Do any additional setup after loading the view.
     }
 
@@ -22,6 +22,11 @@ class ViewController: NSViewController {
         }
     }
 
-
+    
+    @IBAction func buttonClicked(_ sender: Any) {
+        print("Button clicked!")
+    }
+    
+    
 }
 
