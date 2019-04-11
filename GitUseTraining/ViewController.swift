@@ -27,6 +27,9 @@ class ViewController: NSViewController {
         print("Button clicked!")
     }
     
+    @IBAction func sayHallo(_ sender: Any) {
+        print("Hallo, world!")
+    }
     
 }
 

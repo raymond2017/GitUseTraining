@@ -728,6 +728,9 @@
                                     <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                                     <font key="font" metaFont="system"/>
                                 </buttonCell>
+                                <connections>
+                                    <action selector="sayHallo:" target="XfG-lQ-9wD" id="RUh-v7-DO3"/>
+                                </connections>
                             </button>
                         </subviews>
                     </view>
