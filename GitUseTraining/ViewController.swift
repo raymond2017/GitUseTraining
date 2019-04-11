@@ -9,7 +9,7 @@
 import Cocoa
 
 class ViewController: NSViewController {
-
+    let name = "john"
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Starting app...")
