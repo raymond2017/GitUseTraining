@@ -9,3 +9,5 @@
 import Foundation
 
 let name="raymond"
+
+let age=30
