@@ -272,7 +272,7 @@
 				CODE_SIGN_ENTITLEMENTS = GitUseTraining/GitUseTraining.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = L5ZRGJV9BD;
+				DEVELOPMENT_TEAM = P7S6KT3T7H;
 				INFOPLIST_FILE = GitUseTraining/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -291,7 +291,7 @@
 				CODE_SIGN_ENTITLEMENTS = GitUseTraining/GitUseTraining.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = L5ZRGJV9BD;
+				DEVELOPMENT_TEAM = P7S6KT3T7H;
 				INFOPLIST_FILE = GitUseTraining/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
